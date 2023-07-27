@@ -10,5 +10,11 @@
         "id":2,
         "title":"Perbedaan Antara UI/UX",
         "body": "Perbedaan Antara UI/UX"
+    },
+    {
+        "userId": 3,
+        "id" : 3,
+        "title": Web Programming Menyenangkan
+        "body": "Belajar Web Programming Itu Menyenangkan dan juga Menantang"
     }
 ]
